@@ -1,11 +1,13 @@
 {
-   "name": "Custom List",
-   "className": "Rally.apps.customlist.CustomListApp",
-   "server": "https://rally1.rallydev.com",
-   "sdk": "2.1",
-   "javascript": [
-      "Settings.js",
-      "CustomListApp.js"
-   ],
-   "css": []
+    "name": "List",
+    "className": "List",
+    "server": "https://rally1.rallydev.com",
+    "sdk": "2.1",
+    "javascript": [
+        "cookra/Settings.js",
+        "App.js"
+    ],
+    "css": [
+        "app.css"
+    ]
 }
